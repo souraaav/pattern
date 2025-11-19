@@ -91,13 +91,160 @@ java PatternName
 ---
 
 ## 🌟 Demo Output
+Here are the **outputs of all 11 Python pattern programs**, exactly as they appear when printed.
 
-```text
-* * * *
-* * * *
-* * * *
-* * * *
+---
+
+# ⭐ **1. Star Pyramid**
+
 ```
+    * 
+   * * 
+  * * * 
+ * * * * 
+* * * * * 
+```
+
+---
+
+# ⭐ **2. Inverted Pyramid**
+
+```
+* * * * * 
+ * * * * 
+  * * * 
+   * * 
+    * 
+```
+
+---
+
+# ⭐ **3. Diamond Pattern**
+
+```
+    * 
+   * * 
+  * * * 
+ * * * * 
+* * * * * 
+ * * * * 
+  * * * 
+   * * 
+    * 
+```
+
+---
+
+# ⭐ **4. Number Triangle**
+
+```
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5 
+```
+
+---
+
+# ⭐ **5. Number Reverse Triangle**
+
+```
+1 2 3 4 5 
+1 2 3 4 
+1 2 3 
+1 2 
+1 
+```
+
+---
+
+# ⭐ **6. Floyd’s Triangle**
+
+```
+1 
+2 3 
+4 5 6 
+7 8 9 10 
+11 12 13 14 15 
+```
+
+---
+
+# ⭐ **7. Alphabet Pattern**
+
+```
+A 
+B B 
+C C C 
+D D D D 
+E E E E E 
+```
+
+---
+
+# ⭐ **8. Hollow Square**
+
+```
+* * * * * * 
+*         * 
+*         * 
+*         * 
+*         * 
+* * * * * * 
+```
+
+---
+
+# ⭐ **9. Cross (X) Pattern**
+
+```
+*           * 
+  *       *   
+    *   *     
+      *       
+    *   *     
+  *       *   
+*           * 
+```
+
+---
+
+# ⭐ **10. Checkerboard Pattern**
+
+```
+* - * - * - * - 
+- * - * - * - * 
+* - * - * - * - 
+- * - * - * - * 
+* - * - * - * - 
+- * - * - * - * 
+* - * - * - * - 
+- * - * - * - * 
+```
+
+---
+
+# ⭐ **11. Heart Pattern**
+
+```
+  *   *   
+*   *   * 
+*       * 
+  *   *   
+    *     
+```
+
+---
+
+If you want, I can also:
+
+✅ Combine all 11 patterns into a **single menu-driven Python project**
+✅ Add **comments for school submission**
+✅ Add **file saving, animation, or color output**
+
+Just tell me!
+
 
 > Add screenshots or terminal outputs to visually showcase your patterns.
 
