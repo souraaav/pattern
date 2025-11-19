@@ -1,9 +1,5 @@
 # pattern
 
-**Here’s a stylish and professional `README.md` for your [Pattern project](https://github.com/souraaav/pattern), modeled after your Flask portfolio layout. It includes badges, collapsible sections, and a clean structure to showcase your pattern examples effectively.**
-
----
-
 # 🎨 Pattern Showcase – Java Console Outputs
 
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/souraaav/pattern)  
@@ -119,8 +115,4 @@ java PatternName
 ## 📄 License
 
 This project is licensed under the [Unlicense](LICENSE).
-
----
-
-Let me know if you'd like a metadata panel, collapsible pattern previews, or a Copilot Page to iterate faster!
 
