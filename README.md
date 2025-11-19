@@ -1,6 +1,6 @@
 # pattern
 
-# 🎨 Pattern Showcase – Java Console Outputs
+#  Pattern Showcase – Java Console Outputs
 
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/souraaav/pattern)  
 [![Made with](https://img.shields.io/badge/Made%20with-Java-blue?logo=java)](https://www.java.com/)  
@@ -11,25 +11,25 @@ Perfect for beginners learning loops, conditionals, and nested structures.
 
 ---
 
-## 📌 Summary
+##  Summary
 
 This project demonstrates how to use **Java loops and logic** to generate various console patterns.  
 It’s a great resource for learners and interview preparation, showcasing creativity through code.
 
 ---
 
-## 📁 Project Overview
+##  Project Overview
 
 The repository includes multiple pattern types such as:
 
-- 🔷 **Star patterns** – pyramids, diamonds, right-angle triangles  
-- 🔢 **Number patterns** – sequences, matrices, Pascal’s triangle  
-- 🧩 **Mixed patterns** – combinations of characters and numbers  
-- 📄 Each pattern is implemented in a separate file for clarity
+-  **Star patterns** – pyramids, diamonds, right-angle triangles  
+-  **Number patterns** – sequences, matrices, Pascal’s triangle  
+-  **Mixed patterns** – combinations of characters and numbers  
+-  Each pattern is implemented in a separate file for clarity
 
 ---
 
-## 📂 File Descriptions
+##  File Descriptions
 
 <details>
 <summary><code>Credits</code></summary>
@@ -61,22 +61,22 @@ This project is released under the Unlicense, allowing unrestricted use.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
-- ☕ **Java** – Core programming language  
-- 📟 **Console Output** – Text-based rendering  
-- 🔁 **Loops & Conditionals** – For pattern generation
+-  **Java** – Core programming language  
+-  **Console Output** – Text-based rendering  
+-  **Loops & Conditionals** – For pattern generation
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### ✅ Prerequisites
+###  Prerequisites
 
 - Java JDK 8 or higher  
 - Any IDE (e.g., IntelliJ, Eclipse) or terminal with `javac`
 
-### 🧪 Run a Pattern
+###  Run a Pattern
 
 ```bash
 # Compile a pattern file
@@ -90,12 +90,12 @@ java PatternName
 
 ---
 
-## 🌟 Demo Output
+##  Demo Output
 Here are the **outputs of all 11 Python pattern programs**, exactly as they appear when printed.
 
 ---
 
-# ⭐ **1. Star Pyramid**
+#  **1. Star Pyramid**
 
 ```
     * 
@@ -107,7 +107,7 @@ Here are the **outputs of all 11 Python pattern programs**, exactly as they appe
 
 ---
 
-# ⭐ **2. Inverted Pyramid**
+#  **2. Inverted Pyramid**
 
 ```
 * * * * * 
@@ -119,7 +119,7 @@ Here are the **outputs of all 11 Python pattern programs**, exactly as they appe
 
 ---
 
-# ⭐ **3. Diamond Pattern**
+#  **3. Diamond Pattern**
 
 ```
     * 
@@ -135,7 +135,7 @@ Here are the **outputs of all 11 Python pattern programs**, exactly as they appe
 
 ---
 
-# ⭐ **4. Number Triangle**
+#  **4. Number Triangle**
 
 ```
 1 
@@ -147,7 +147,7 @@ Here are the **outputs of all 11 Python pattern programs**, exactly as they appe
 
 ---
 
-# ⭐ **5. Number Reverse Triangle**
+#  **5. Number Reverse Triangle**
 
 ```
 1 2 3 4 5 
@@ -159,7 +159,7 @@ Here are the **outputs of all 11 Python pattern programs**, exactly as they appe
 
 ---
 
-# ⭐ **6. Floyd’s Triangle**
+#  **6. Floyd’s Triangle**
 
 ```
 1 
@@ -171,7 +171,7 @@ Here are the **outputs of all 11 Python pattern programs**, exactly as they appe
 
 ---
 
-# ⭐ **7. Alphabet Pattern**
+#  **7. Alphabet Pattern**
 
 ```
 A 
@@ -183,7 +183,7 @@ E E E E E
 
 ---
 
-# ⭐ **8. Hollow Square**
+#  **8. Hollow Square**
 
 ```
 * * * * * * 
@@ -196,7 +196,7 @@ E E E E E
 
 ---
 
-# ⭐ **9. Cross (X) Pattern**
+#  **9. Cross (X) Pattern**
 
 ```
 *           * 
@@ -210,7 +210,7 @@ E E E E E
 
 ---
 
-# ⭐ **10. Checkerboard Pattern**
+#  **10. Checkerboard Pattern**
 
 ```
 * - * - * - * - 
@@ -225,7 +225,7 @@ E E E E E
 
 ---
 
-# ⭐ **11. Heart Pattern**
+#  **11. Heart Pattern**
 
 ```
   *   *   
@@ -239,9 +239,9 @@ E E E E E
 
 If you want, I can also:
 
-✅ Combine all 11 patterns into a **single menu-driven Python project**
-✅ Add **comments for school submission**
-✅ Add **file saving, animation, or color output**
+ Combine all 11 patterns into a **single menu-driven Python project**
+ Add **comments for school submission**
+ Add **file saving, animation, or color output**
 
 Just tell me!
 
@@ -250,16 +250,16 @@ Just tell me!
 
 ---
 
-## 🌱 Future Enhancements
+##  Future Enhancements
 
-- 📸 Add GIFs or screenshots for each pattern  
-- 📘 Include explanations and logic breakdowns  
-- 🌐 Host as a web-based pattern visualizer using JavaScript or Flask  
-- 🧠 Add interactive CLI to choose and run patterns dynamically
+-  Add GIFs or screenshots for each pattern  
+-  Include explanations and logic breakdowns  
+-  Host as a web-based pattern visualizer using JavaScript or Flask  
+-  Add interactive CLI to choose and run patterns dynamically
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the [Unlicense](LICENSE).
 
