@@ -7,7 +7,7 @@
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-lightgrey)](LICENSE)
 
 A collection of visually appealing console-based patterns created using Java.  
-Perfect for beginners learning loops, conditionals, and nested structures.
+Perfect for beginners learning loops, conditionals, and nested structures
 
 ---
 
