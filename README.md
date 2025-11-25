@@ -6,14 +6,14 @@
 [![Made with](https://img.shields.io/badge/Made%20with-Java-blue?logo=java)](https://www.java.com/)  
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-lightgrey)](LICENSE)
 
-A collection of visually appealing console-based patterns created using Java  
+A collection of visually appealing console-based patterns created using Java. 
 Perfect for beginners learning loops, conditionals, and nested structures.
 
 ---
 
 ##  Summary
 
-This project demonstrates how to use **Java loops and logic** to generate various console patterns.  
+This project demonstrates how to use **Java loops and logic** to generate various console patterns 
 It’s a great resource for learners and interview preparation, showcasing creativity through code.
 
 ---
