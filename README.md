@@ -13,7 +13,7 @@ Perfect for beginners learning loops, conditionals, and nested structures.
 
 ##  Summary
 
-This project demonstrates how to use **Java loops and logic** to generate various console patterns 
+This project demonstrates how to use **Java loops and logic** to generate various console patterns. 
 It’s a great resource for learners and interview preparation, showcasing creativity through code.
 
 ---
