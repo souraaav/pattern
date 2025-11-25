@@ -86,7 +86,6 @@ javac PatternName.java
 java PatternName
 ```
 
-> Replace `PatternName.java` with the actual filename you want to test.
 
 ---
 
