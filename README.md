@@ -22,7 +22,6 @@ The repository includes multiple pattern types such as:
 -  **Number patterns** – sequences, matrices, Pascal’s triangle  
 -  **Mixed patterns** – combinations of characters and numbers  
 -  Each pattern is implemented in a separate file for clarity
-
 ---
 
 ##  File Descriptions
