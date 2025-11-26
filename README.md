@@ -7,11 +7,13 @@
 
 A collection of visually appealing console-based patterns created using Java. 
 Perfect for beginners learning loops, conditionals, and nested structures.
+
 ---
 ##  Summary
 
 This project demonstrates how to use **Java loops and logic** to generate various console patterns. 
 It’s a great resource for learners and interview preparation, showcasing creativity through code.
+
 ---
 
 ##  Project Overview
