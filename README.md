@@ -1,5 +1,4 @@
 # pattern
-
 #  Pattern Showcase – Java Console Outputs
 
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/souraaav/pattern)  
@@ -8,7 +7,6 @@
 
 A collection of visually appealing console-based patterns created using Java. 
 Perfect for beginners learning loops, conditionals, and nested structures.
-
 ---
 
 ##  Summary
